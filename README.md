@@ -3,6 +3,8 @@
 - 👋 Hi, I’m Devin Michael Benjamin. I am a Full Stack Developer.
 - 🌱 I’m good at Ruby on Rails, Python Django, Laravel, Javascript.
 - 💞️ I’m looking to collaborate and work with you.
+- ✨ Feel free to contact at kkotovo9w@outlook.com
+- Thank you!
 
 <!---
 smartdev58/smartdev58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
